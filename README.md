@@ -1,4 +1,3 @@
--------------------------------------------------------------------
  Decompress the file and run "Game or Something.exe"               
 -------------------------------------------------------------------
  Error logs & save data is located at:                             
